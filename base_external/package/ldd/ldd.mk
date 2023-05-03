@@ -6,7 +6,7 @@
 ##############################################################
 
 # Changed reference to Assignment 7 hash
-LDD_VERSION = '718cbdf07e082486e008537660e6b9fb4fb07a45'
+LDD_VERSION = '9e4adfdc2951dd668609acf9fc64978fbd81aaa1'
 
 # Changed reference to Assignment 7
 LDD_SITE = 'git@github.com:cu-ecen-aeld/assignment-7-crankf16.git'
